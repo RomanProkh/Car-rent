@@ -21,4 +21,11 @@ This project is not fully tested, and it will be improved later on.
 Testing files can be found in the testing folder. 
 
 ## Some screenshots
-![alt text]()
+<div style="flow:left">
+<img src="https://github.com/RomanProkh/Car-rent/blob/main/screenshots/1.png" alt="Main Page" width="500"/>
+<img src="https://github.com/RomanProkh/Car-rent/blob/main/screenshots/2.png" alt="Main Page" width="500"/>
+</div>
+<div style="flow:left">
+<img src="https://github.com/RomanProkh/Car-rent/blob/main/screenshots/3.png" alt="Main Page" width="500"/>
+<img src="https://github.com/RomanProkh/Car-rent/blob/main/screenshots/4.png" alt="Main Page" width="500"/>
+</div>
