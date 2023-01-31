@@ -185,10 +185,10 @@ let server = app.listen(8081, function () {
 function makeDb() {
 
     const connection = mysql.createConnection({
-        host: "localhost",
-        user: "roman",
-        password: "roman",
-        database: "car_rent"
+        host: "your host",
+        user: "your user",
+        password: "your password",
+        database: "your database"
     });
     return {
         query(sql, args) {
